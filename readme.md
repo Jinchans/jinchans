@@ -1,12 +1,10 @@
 ## Fullstack web3 developer
 
 Typical Projects:
-- 👷 HardHat/Forge unit & integration tests
 - 🦍 NFT marketplaces and collections
 - ⚡ Rebase tokens & stable coins
 - ⚖️ Decentralized exchanges
 - 🌻 Yieldfarms & pools
-- 🐱‍👤 Privacy protocols
 - 🖍️ Implementation of frontends from scratch
 - 🍴  Forking existing protocols onto alternate EVM chains
 
