@@ -13,6 +13,8 @@ Reach Me:
 - 💸 For hire freelance web3 projects
 - 🤝 For hire full-time positions
 - ⛔ Please no recruiters for web2 / spam / work for no pay
+Telegram[telegram] 
+Email[email] 
 
 ### Technology Stack:
 
@@ -29,3 +31,8 @@ Reach Me:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 [website]: https://portfolio-jin.vercel.app/
+[telegram]: https://t.me/jinchans
+[email]: mailto:jinchans@protonmail.com
+
+
+
