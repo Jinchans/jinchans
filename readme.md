@@ -5,7 +5,7 @@ Typical Projects:
 - ⚡ Rebase tokens & stable coins
 - ⚖️ Decentralized exchanges
 - 🌻 Yieldfarms & pools
-- 🖍️ Implementation of frontends from scratch
+- 🖍️ Implementation of front-ends from scratch
 - 🍴  Forking existing protocols onto alternate EVM chains
 
 Reach Me:
