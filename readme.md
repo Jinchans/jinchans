@@ -15,6 +15,7 @@ Reach Me:
 - ⛔ Please no recruiters for web2 / spam / work for no pay
 </br>
 [Telegram](https://t.me/jinchans)
+[Email](jinchans@protonmail.com)
 
 ### Technology Stack:
 
