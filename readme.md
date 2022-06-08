@@ -14,8 +14,8 @@ Reach Me:
 - 🤝 For hire full-time positions
 - ⛔ Please no recruiters for web2 / spam / work for no pay
 </br>
-Telegram[telegram] 
-Email[email] 
+[Telegram[telegram]](https://t.me/jinchans) 
+[email]: mailto:jinchans@protonmail.com
 
 ### Technology Stack:
 
@@ -30,10 +30,6 @@ Email[email]
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-[website]: https://portfolio-jin.vercel.app/
-[telegram]: https://t.me/jinchans
-[email]: mailto:jinchans@protonmail.com
 
 
 
