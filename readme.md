@@ -1,6 +1,7 @@
 ## Fullstack web3 developer
 
 Typical Projects:
+- 🐱‍👤 Privacy protocols/ ring sigs / zkSnarks
 - 🦍 NFT marketplaces and collections
 - ⚡ Rebase tokens & stable coins
 - ⚖️ Decentralized exchanges
