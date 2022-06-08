@@ -14,8 +14,7 @@ Reach Me:
 - 🤝 For hire full-time positions
 - ⛔ Please no recruiters for web2 / spam / work for no pay
 </br>
-[Telegram[telegram]](https://t.me/jinchans) 
-[email]: mailto:jinchans@protonmail.com
+[Telegram](https://t.me/jinchans)
 
 ### Technology Stack:
 
