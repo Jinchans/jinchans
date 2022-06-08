@@ -1,6 +1,6 @@
 # Web3 Dev Jin 🐸
 
-[![Website](https://img.shields.io/website?label=MY PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([website])
+[![Website](https://img.shields.io/website?label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([website])
 
 ## I'm a fullstack web3 developer
 
