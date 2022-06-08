@@ -13,6 +13,7 @@ Reach Me:
 - 💸 For hire freelance web3 projects
 - 🤝 For hire full-time positions
 - ⛔ Please no recruiters for web2 / spam / work for no pay
+</br>
 Telegram[telegram] 
 Email[email] 
 
