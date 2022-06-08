@@ -1,4 +1,4 @@
-## I'm a fullstack web3 developer
+## Fullstack web3 developer
 
 Typical Projects:
 - 👷 HardHat/Forge unit & integration tests
